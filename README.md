@@ -1,2 +1,2 @@
 # Goal-Scorer
-A simple game made with html,bulma,javascript.
+A simple 2-player game made with html,bulma,javascript.
